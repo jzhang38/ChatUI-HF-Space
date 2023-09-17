@@ -4,5 +4,6 @@
       "repetition_penalty": 1.2,
       "top_k": 50,
       "truncate": 1000,
-      "max_new_tokens": 1024
+      "max_new_tokens": 1024,
+      "stop": ["<|im_end|>\n"]
 }
